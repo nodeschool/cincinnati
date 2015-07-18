@@ -4,6 +4,14 @@
 
 NodeSchool chapter for Cincinnati.
 
+## Getting Started
+
+Here is a list of helpful resources if you are new to node school events.
+
+- [Install Node](https://nodejs.org/download/)
+- [NodeSchool Workshopper List](http://nodeschool.io/#workshopper-list)
+- [Code of Conduct](https://github.com/nodeschool/cincinnati/blob/master/code_of_conduct.md)
+
 ## Team
 
  - [Matt Hernandez](https://github.com/fiveisprime) - [@fiveisprime](https://twitter.com/fiveisprime/)

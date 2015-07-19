@@ -1,16 +1,32 @@
 # cincinnati
 
-[![Join the chat at https://gitter.im/nodeschool/cincinnati](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/nodeschool/cincinnati?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[![Join the chat at https://gitter.im/nodeschool/cincinnati](https://badges.gitter.im/Join%20Chat.svg)][gitter]
 
 NodeSchool chapter for Cincinnati.
 
+
 ## Getting Started
 
-Here is a list of helpful resources if you are new to node school events.
+Here is a list of helpful resources if you are new to NodeSchool events.
 
 - [Install Node](https://nodejs.org/download/)
 - [NodeSchool Workshopper List](http://nodeschool.io/#workshopper-list)
 - [Code of Conduct](https://github.com/nodeschool/cincinnati/blob/master/code_of_conduct.md)
+
+We use github issues for all async conversations. Please feel free to [open an
+issue][new-issue] to get in touch with the mentors.
+
+### Stumped on an exercise?
+
+- [Ask in gitter][gitter]
+- [Open an issue][new-issue]
+
+
+## Open Source
+
+If you've been to an event, and want to join the organization, please [open an
+issue][new-issue].
+
 
 ## Team
 
@@ -20,3 +36,7 @@ Here is a list of helpful resources if you are new to node school events.
  - [Alex Padgett](https://github.com/apcomplete) - [@apcomplete](https://twitter.com/apcomplete/)
  - [Jeremiah Harlan](https://github.com/harlanj) - [@theworkflow15](https://twitter.com/theworkflow15/)
  - [Francesca Varney](https://github.com/franvarney) - [@varFranv](https://twitter.com/varFranv/)
+
+
+[gitter]: https://gitter.im/nodeschool/cincinnati
+[new-issue]: https://github.com/nodeschool/cincinnati/issues/new

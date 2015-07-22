@@ -1,5 +1,9 @@
-# cincinnati
+# Cincinnati
 
+<img align="right"
+  width=100 height=115
+  src="https://raw.githubusercontent.com/nodeschool/nodeschool.github.io/44664f936dde11304531fd4ada50a5b282a5d1de/images/nodeschool-blank.png"
+  />
 [![Join the chat at https://gitter.im/nodeschool/cincinnati](https://badges.gitter.im/Join%20Chat.svg)][gitter]
 
 NodeSchool chapter for Cincinnati.

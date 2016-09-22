@@ -47,5 +47,5 @@ Here is a list of helpful resources if you are new to NodeSchool events.
 [issues]:  https://github.com/nodeschool/cincinnati/issues
 [new-issue]: https://github.com/nodeschool/cincinnati/issues/new
 
-[install-node]: https://nodejs.org/download/
+[install-node]: https://nodejs.org/
 [workshoppers]: http://nodeschool.io/#workshopper-list

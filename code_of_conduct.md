@@ -27,6 +27,8 @@ please contact an organizer immediately.
 
 ## Social rules
 
+> via [Recurse Center's User Guide][user-guide]
+
 Another way we try to remove obstacles to learning is by having a small set of
 social rules. These rules are intended to be lightweight, and to make more
 explicit certain social norms that are normally implicit. Most of our social
@@ -130,3 +132,6 @@ and the
 as a starting point. This Code of Conduct, like its inspirations, is licensed
 under the
 [Creative Commons Zero license](http://creativecommons.org/publicdomain/zero/1.0/).
+
+
+[user-guide]: https://www.recurse.com/manual#sub-sec-social-rules

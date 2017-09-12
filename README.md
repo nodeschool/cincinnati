@@ -9,6 +9,8 @@
 
 NodeSchool chapter for Cincinnati.
 
+Is your company interested in hosting a NodeSchool event or sponsoring one of our workshopper sessions by providing delicious fuel (food) to keep us coding strong? Message our [mentors](#organization-mentors), we would appreciate it!
+
 Please feel free to [open an issue][new-issue] to get in touch with [the
 mentors](#organization-mentors).
 
@@ -35,12 +37,8 @@ Here is a list of helpful resources if you are new to NodeSchool events.
 
 ##### Organization Mentors
 
- - [Matt Hernandez](https://github.com/fiveisprime) - [@fiveisprime](https://twitter.com/fiveisprime/)
  - [Jack Boberg](https://github.com/jackboberg) - [@jackboberg](https://twitter.com/jackboberg/)
  - [Tara Z. Manicsic](https://github.com/tzmanics) - [@tzmanics](https://twitter.com/tzmanics/)
- - [Alex Padgett](https://github.com/apcomplete) - [@apcomplete](https://twitter.com/apcomplete/)
- - [Jeremiah Harlan](https://github.com/harlanj) - [@theworkflow15](https://twitter.com/theworkflow15/)
- - [Francesca Varney](https://github.com/franvarney) - [@varFranv](https://twitter.com/varFranv/)
 
 [conduct]: https://github.com/nodeschool/cincinnati/blob/master/code_of_conduct.md
 [gitter]: https://gitter.im/nodeschool/cincinnati
